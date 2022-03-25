@@ -1,5 +1,5 @@
 #### basic configuration
-
+my gye your nock at my door iwill open reach off folow reaper a gona take cover from neck offence to you and make the butchery at birth from your NAuthority
 - install hexo: `npm install hexo -g`
 - init project: `hexo init`
 - intall dependencies: `npm install`
